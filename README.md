@@ -1,2 +1,2 @@
 # Imagens
-Ìcones e outras imagens para os ebooks
+Ícones e outras imagens para os ebooks
